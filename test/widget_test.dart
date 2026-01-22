@@ -1,3 +1,4 @@
+//Might be a good idea to start adding tests here...
 // import 'dart:math';
 //
 // import 'package:dice_app/roll_dice.dart';
